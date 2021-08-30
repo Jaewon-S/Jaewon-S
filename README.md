@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=%20Hitten'%20Different&fontSize=80&rotate=20&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=%20Hitten'%20Different&fontSize=80&rotate=20&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62&fontAlign=60&desc=Be%20proactive%20not%20reactive&descAlignY=54&descAlign=82)
 ## 👋 Hello ~ 
 -  Welcome to Jaewon-S world  :smile:
 
